@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T10:42:45-06:00
+modified: 2024-05-26T10:43:35-06:00
 ---
 
 # Jonah
@@ -57,8 +57,8 @@ Jonah prays from the belly of the fish.
 was probably a fish, may have been a whale (the same word was used for both back in the day), the word is not
 
  לִוְיָתָן liwyâṯân 
+the sea serpant called leviathan. 
 
- the sea serpant called leviathan. 
 
 The people who favor the whale interpretation think Jonah survived for three days and three nights in the stomach of the beast, those who prefer the fish interpretation say Jonah died and was resurrected. We dont know which of these is correct.
 
