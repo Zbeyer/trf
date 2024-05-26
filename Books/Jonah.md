@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T07:58:13-06:00
+modified: 2024-05-26T08:01:44-06:00
 ---
 
 # Jonah
@@ -19,3 +19,5 @@ And I will let them dwell in their houses,"
 Says the LORD.
 
 Nineveh was the capitol city of Assyria. As such, it was used often as a stand in for all of Assyria. In the same way Washington (DC) is used in historical documents to represent the politics of the USA or Moscow the USSR.
+
+So the book of Nahum begins with, "The burden against Nineveh," but can be an endemic against the entire Assyrian empire.
