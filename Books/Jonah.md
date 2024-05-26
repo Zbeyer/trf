@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T10:50:20-06:00
+modified: 2024-05-26T10:51:27-06:00
 ---
 
 # Jonah
@@ -49,7 +49,8 @@ If Jonah went one of two things would happen: either he'd be killed by the assyr
 ## Jonah 1
 Jonah is called, and rejects the call.
 
-> 1 The word of the Lord came to Jonah son of Amittai: 2 “Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.”
+> 1 The word of the Lord came to Jonah son of Amittai:m
+> 2 “Go to the great city of Nineveh and preach against it, because its wickedness has come up before me.”
 > 
 > 3 But Jonah ran away from the Lord and headed for Tarshish. He went down to Joppa, where he found a ship bound for that port. After paying the fare, he went aboard and sailed for Tarshish to flee from the Lord.
 > 
