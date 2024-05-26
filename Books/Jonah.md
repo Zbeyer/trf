@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T08:16:47-06:00
+modified: 2024-05-26T08:23:54-06:00
 ---
 
 # Jonah
@@ -28,3 +28,9 @@ Nineveh was the capitol city of Assyria. As such, it was used often as a stand i
 So the book of Nahum begins with, "The burden against Nineveh," but can be an endemic against the entire Assyrian empire.
 
 Because Jonah was from the northern kingdom and was a prophet to Jeroboam II, and we have a brief history that he made prophetic statements in 2nd Kings, we can surmise he was a prophet during the great affluence and spirtual decline of the north. Though the short book of the prophet focuses us on his call, rejection, and reluctant ministry in Nineveh, he had a long and storied minustry outside his book. It is very probable he argued dydactively against the northern Kingdom's actions. We are told in 2 Kings 14:24 that Jeroboam did evil in the sight of the Lord.
+
+## Context
+
+The Assyrian empire had a reputation of being not nice. They invented an early form of crusefixtion. It was the last place a Jewish prophet wanted to go—it was likely a death sentence. 
+
+At the time the Assyrians of Nineveh worshiped Dagon, a fish god. Thus when Jonah was vomited up by a fish the Dagon worshipers would have seen that as a sign that this was a man from their god.
