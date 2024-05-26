@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T10:09:52-06:00
+modified: 2024-05-26T10:10:52-06:00
 ---
 
 # Jonah
@@ -43,13 +43,13 @@ The Assyrian empire had a reputation of being not nice. They invented an early f
 At the time the Assyrians of Nineveh worshiped Dagon, a fish god. Thus when Jonah was vomited up by a fish the Dagon worshipers would have seen that as a sign that this was a man from their god.
 
 ## Jonah 1
-Jonah is called and rejects the call
+Jonah is called, and rejects the call.
 
 ## Jonah 2
-Jonah prays from the belly of the fish
+Jonah prays from the belly of the fish.
 
 ## Jonah 3
-Jonah is called again, and answers the call
+Jonah is called again, and answers the call.
 
 ## Jonah 4
-Jonah argues with God
+Jonah argues with God.
