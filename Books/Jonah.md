@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T11:43:06-06:00
+modified: 2024-05-26T11:43:41-06:00
 ---
 
 # Jonah
@@ -89,7 +89,7 @@ The people who favor the whale interpretation think Jonah survived for three day
 
  
 
-> From inside the fish Jonah prayed to the Lord his God. 
+> 1 From inside the fish Jonah prayed to the Lord his God. 
 > 2 He said:
 >
 > “In my distress I called to the Lord,
