@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T11:39:50-06:00
+modified: 2024-05-26T11:43:06-06:00
 ---
 
 # Jonah
@@ -105,7 +105,7 @@ The people who favor the whale interpretation think Jonah survived for three day
 >    from your sight;
 > yet I will look again
 >    toward your holy temple.’
->  5 The engulfing waters threatened me,[b]
+>  5 The engulfing waters threatened me,[Or waters were at my throat]
 >    the deep surrounded me;
 >    seaweed was wrapped around my head.
 > 6 To the roots of the mountains I sank down;
