@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T10:10:52-06:00
+modified: 2024-05-26T10:20:09-06:00
 ---
 
 # Jonah
@@ -47,6 +47,8 @@ Jonah is called, and rejects the call.
 
 ## Jonah 2
 Jonah prays from the belly of the fish.
+
+דָּאג ḏâg̱ was probably a fish, may have been a whale (the same word was used for both back in the day), the word is not לִוְיָתָן liwyâṯân - the sea serpant called leviathan. The people who favor the whale interpretation think Jonah survived for three days and three nights in the stomach of the beast, those who prefer the fish interpretation say Jonah died and was resurrected. We dont know which of these is correct.
 
 ## Jonah 3
 Jonah is called again, and answers the call.
