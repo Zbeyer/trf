@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T10:20:09-06:00
+modified: 2024-05-26T10:27:37-06:00
 ---
 
 # Jonah
@@ -52,6 +52,10 @@ Jonah prays from the belly of the fish.
 
 ## Jonah 3
 Jonah is called again, and answers the call.
+
+The preaching of predictive prophesy usually comes also with the idea that שׁוּב šûḇ — repentance (teshuvah) can delay or forstall judgement. 
+
+So the message, "Yet forty days, and Nineveh shall be overthrown," carries the implication that God will relent if the people repent.
 
 ## Jonah 4
 Jonah argues with God.
