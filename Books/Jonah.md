@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T08:23:54-06:00
+modified: 2024-05-26T08:37:14-06:00
 ---
 
 # Jonah
@@ -28,6 +28,13 @@ Nineveh was the capitol city of Assyria. As such, it was used often as a stand i
 So the book of Nahum begins with, "The burden against Nineveh," but can be an endemic against the entire Assyrian empire.
 
 Because Jonah was from the northern kingdom and was a prophet to Jeroboam II, and we have a brief history that he made prophetic statements in 2nd Kings, we can surmise he was a prophet during the great affluence and spirtual decline of the north. Though the short book of the prophet focuses us on his call, rejection, and reluctant ministry in Nineveh, he had a long and storied minustry outside his book. It is very probable he argued dydactively against the northern Kingdom's actions. We are told in 2 Kings 14:24 that Jeroboam did evil in the sight of the Lord.
+
+Gath or winepress was probly in or near Galilee. Thus Jonah and Jesus were from the Galilee area. 
+
+> John 7:52
+They answered and said to him, "Are you also from Galilee? Search and look, for no prophet has arisen out of Galilee."
+
+The Pharisees forgot about Jonah. 
 
 ## Context
 
