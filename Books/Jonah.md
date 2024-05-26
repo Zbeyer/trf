@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T10:32:03-06:00
+modified: 2024-05-26T10:36:27-06:00
 ---
 
 # Jonah
@@ -43,6 +43,8 @@ The Assyrian empire had a reputation of being not nice. They invented an early f
 At the time the Assyrians of Nineveh worshiped Dagon, a fish god. Thus when Jonah was vomited up by a fish the Dagon worshipers would have seen that as a sign that this was a man from their god.
 
 _If God said get up and go to Hamas, or Hesbolah, or the CCP would you go?_
+
+If Jonah went one of two things would happen: either he'd be killed by the assyrians in a brutal and public way or God would have mercy on them. Jonah was watching his own countrymen turn from God, there was a reason to want to stay and preach where he was. Jonah wanted to preach repentence where he was at. Not in some foreign land.
 
 ## Jonah 1
 Jonah is called, and rejects the call.
