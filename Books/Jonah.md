@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-26T07:54:47-06:00
+modified: 2024-05-26T07:58:13-06:00
 ---
 
 # Jonah
@@ -18,4 +18,4 @@ Like a dove from the land of Assyria.
 And I will let them dwell in their houses,"
 Says the LORD.
 
-Nineveh was the capitol city of Assyria. As such, it was used often as a stand in for all of Assyria.
+Nineveh was the capitol city of Assyria. As such, it was used often as a stand in for all of Assyria. In the same way Washington (DC) is used in historical documents to represent the politics of the USA or Moscow the USSR.
