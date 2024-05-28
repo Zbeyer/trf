@@ -95,6 +95,43 @@ Jonah is called again, and answers the call.
 The preaching of predictive prophesy usually comes also with the idea that שׁוּב šûḇ — repentance (teshuvah) can delay or forstall judgement. 
 
 So the message, "Yet forty days, and Nineveh shall be overthrown," carries the implication that God will relent if the people repent. Jonah—knowing this—did not want Nineveh to hear the message. This is why certain Calvary teachers have said Jonah had murderous intent.
+> 1 Then the word of the Lord came to Jonah a second time:
+> 2 “Go to the great city of Nineveh and proclaim to it the message I give you.”
+>
+> 3 Jonah obeyed the word of the Lord and went to Nineveh. 
+> Now Nineveh was a very large city; it took three days to go through it.
+> 4 Jonah began by going a day’s journey into the city, proclaiming, “Forty more days and Nineveh will be overthrown.” 
+> 5 The Ninevites believed God. A fast was proclaimed, and all of them, from the greatest to the least, put on sackcloth.
+>
+> 6 When Jonah’s warning reached the king of Nineveh, he rose from his throne, took off his royal robes, covered himself with sackcloth and sat down in the dust. 7 This is the proclamation he issued in Nineveh:
+>
+> “By the decree of the king and his nobles:
+>
+> Do not let people or animals, herds or flocks, taste anything; do not let them eat or drink. 8 But let people and animals be covered with sackcloth. Let everyone call urgently on God. Let them give up their evil ways and their violence. 9 Who knows? God may yet relent and with compassion turn from his fierce anger so that we will not perish.”
+>
+> 10 When God saw what they did and how they turned from their evil ways, he relented and did not bring on them the destruction he had threatened.
 
 ## Jonah 4
 Jonah argues with God.
+
+> 1 But to Jonah this seemed very wrong, and he became angry. 
+> 2 He prayed to the Lord, 
+> 	“Isn’t this what I said, Lord, when I was still at home? 
+> 	That is what I tried to forestall by fleeing to Tarshish. 
+> 	I knew that you are a gracious and compassionate God, slow to anger and abounding in love, a God who relents from sending calamity. 
+> 	3 Now, Lord, take away my life, for it is better for me to die than to live.”
+> 
+> 4 But the Lord replied, 
+> 	“Is it right for you to be angry?”
+> 
+> 5 Jonah had gone out and sat down at a place east of the city. There he made himself a shelter, sat in its shade and waited to see what would happen to the city. 6 Then the Lord God provided a leafy plant and made it grow up over Jonah to give shade for his head to ease his discomfort, and Jonah was very happy about the plant. 7 But at dawn the next day God provided a worm, which chewed the plant so that it withered. 8 When the sun rose, God provided a scorching east wind, and the sun blazed on Jonah’s head so that he grew faint. He wanted to die, and said, 
+> 	“It would be better for me to die than to live.”
+> 
+> 9 But God said to Jonah, 
+> 	“Is it right for you to be angry about the plant?”
+> 
+> “It is,” he said.
+> 	“And I’m so angry I wish I were dead.”
+> 
+> 10 But the Lord said, 
+> 	“You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight. 11 And should I not have concern for the great city of Nineveh, in which there are more than a hundred and twenty thousand people who cannot tell their right hand from their left—and also many animals?”
