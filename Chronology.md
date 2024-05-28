@@ -120,4 +120,7 @@ Acts of the Apostles.
 Hebrews, James, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude, Revelation
 
 
+
+----
+
 A true chronology can be found at [Bible Hub](https://biblehub.com/timeline/).
