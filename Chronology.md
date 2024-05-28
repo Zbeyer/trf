@@ -16,11 +16,11 @@ The cannon of the bible is organized by theme, not chronology. Luke is probably 
 
 ### **Pentateuch** or the **Five Books of Moses** by
 
--   *Bəreshit* (בְּרֵאשִׁית, literally "In the beginning")—[Genesis](https://en.wikipedia.org/wiki/Book_of_Genesis), from Γένεσις (*Génesis*, "Creation")
--   *Shəmot* (שְׁמוֹת, literally "Names")—[Exodus](https://en.wikipedia.org/wiki/Book_of_Exodus), from Ἔξοδος (*Éxodos*, "Exit")
--   *Vayikra* (וַיִּקְרָא, literally "And He called")—[Leviticus](https://en.wikipedia.org/wiki/Leviticus), from Λευιτικόν (*Leuitikón*, "Relating to the Levites")
--   *Bəmidbar* (בְּמִדְבַּר, literally "In the desert [of]")—[Numbers](https://en.wikipedia.org/wiki/Book_of_Numbers), from Ἀριθμοί (*Arithmoí*, "Numbers")
--   *Dəvarim* (דְּבָרִים, literally "Things" or "Words")—[Deuteronomy](https://en.wikipedia.org/wiki/Deuteronomy), from Δευτερονόμιον (*Deuteronómion*, "Second-Law")
+-   *Bəreshit* (בְּרֵאשִׁית, literally "In the beginning")—Genesis
+-   *Shəmot* (שְׁמוֹת, literally "Names")—Exodus
+-   *Vayikra* (וַיִּקְרָא, literally "And He called")—Leviticus
+-   *Bəmidbar* (בְּמִדְבַּר, literally "In the desert [of]")—Numbers
+-   *Dəvarim* (דְּבָרִים, literally "Things" or "Words")—Deuteronomy
 
 
 
