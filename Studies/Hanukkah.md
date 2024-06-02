@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:07:33-06:00
+modified: 2024-06-02T10:17:49-06:00
 type: Checklist
 ---
 
@@ -25,3 +25,14 @@ The holiday commemorates the recapture of jerusalem in 164 BC.
 There is a legend that there was a miraculous consumption of oil (the claim is there was only one day of oil, but the oil burned for the full eight to dedicate a new alter). This miracle is has no additional sources, maybe it happened, maybe it didn't. The real miracle is a rag tag gollia army of hebrews retook the temple from the greeks in the first place.
 
 The burning of the lamps for eight days is a commemoration of the eight days of dedication to set up a new alter.
+
+----
+
+In Jesus' day, Hanukka was an unofficial fourth holiday of mandatory gathering. The Law did not mention this day at all. But I still think it is significant. So if one could find long term lodging through winter in or near Jerusalem—they would.
+
+This is why Jesus would be walking in solomon's porch in John 10:23
+
+> John 10:23
+> And Jesus walked in the temple, in Solomon's porch.
+
+----
