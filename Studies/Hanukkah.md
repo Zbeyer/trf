@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:22:23-06:00
+modified: 2024-06-02T10:23:53-06:00
 ---
 
 # Hanukkah
@@ -42,3 +42,9 @@ If one could find long term lodging through winter in or near Jerusalem—they w
 > Jesus answered them, "I told you, and you do not believe. The works that I do in My Father's name, they bear witness of Me. But you do not believe, because you are not of My sheep, as I said to you. My sheep hear My voice, and I know them, and they follow Me. And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father's hand.
 > 
 > I and My Father are one."
+
+Then it is said
+> John 10:31
+> Then the Jews took up stones again to stone Him.
+
+What were these stones?
