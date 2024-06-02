@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T09:49:49-06:00
+modified: 2024-06-02T09:52:45-06:00
 ---
 
 # Hanukkah
@@ -10,4 +10,10 @@ modified: 2024-06-02T09:49:49-06:00
 Ḥănukkā
 Meaning: Dedication or rededication
 
-Uses a special menora: instead of the seven candle lamp stand this one uses 9. The central most light is called the Shamash or the attendent. It gives light to the others.
+Uses a special menora: instead of the seven candle lamp stand this one uses 9. The central most light is called the Shamash or the attendent. 
+
+שַׁמָּשׁ
+
+It gives light to the others.
+
+The holiday
