@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T11:00:03-06:00
+modified: 2024-06-02T11:00:24-06:00
 ---
 
 # Hanukkah
@@ -14,6 +14,8 @@ modified: 2024-06-02T11:00:03-06:00
 Meaning: Dedication or rededication
 
 ![Image](./b6db6bb49f8cb2dac070a4067cddcd8d.jpg) 
+
+
 
 Uses a special menora: instead of the seven candle lamp stand this one uses 9. The central most light is called the Shamash or the attendent. 
 
