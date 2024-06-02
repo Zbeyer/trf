@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T09:58:16-06:00
+modified: 2024-06-02T10:02:42-06:00
 ---
 
 # Hanukkah
@@ -19,3 +19,6 @@ It gives light to the others.
 The holiday commemorates the recapture of jerusalem in 164 BC.
 
 There is a legend that there was a miraculous consumption of oil (the claim is there was only one day of oil, but the oil burned for the full eight to dedicate a new alter). This miracle is has no additional sources, maybe it happened, maybe it didn't. The real miracle is a rag tag gollia army of hebrews retook the temple from the greeks in the first place.
+
+> Numbers 7:10
+> Now the leaders offered the dedication offering for the altar when it was anointed; so the leaders offered their offering before the altar.
