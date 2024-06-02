@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:37:50-06:00
+modified: 2024-06-02T10:42:42-06:00
 ---
 
 # Hanukkah
@@ -60,3 +60,8 @@ Solomon's Porch would have been kept very clean. There was nothing there that sh
 If the tradition is true the only stones that would be in Solomon's Porch would be the stones that the Hasmonians taught Messiah would tell them what to do with.
 
 On Hannuka in Jesus' day they tried to stone Him.
+
+----
+
+I think Hanukka is a Christian holiday:
+- The attendent that lights the other candles is like Christ who gives us light.
