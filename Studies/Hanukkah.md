@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:42:42-06:00
+modified: 2024-06-02T10:45:09-06:00
 ---
 
 # Hanukkah
@@ -65,3 +65,7 @@ On Hannuka in Jesus' day they tried to stone Him.
 
 I think Hanukka is a Christian holiday:
 - The attendent that lights the other candles is like Christ who gives us light.
+
+It is in the middle: 
+> Revelation 1:13
+> and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band.
