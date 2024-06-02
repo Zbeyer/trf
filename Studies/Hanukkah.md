@@ -1,6 +1,7 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:07:16-06:00
+modified: 2024-06-02T10:07:33-06:00
+type: Checklist
 ---
 
 # Hanukkah
