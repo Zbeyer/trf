@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:19:05-06:00
+modified: 2024-06-02T10:22:23-06:00
 ---
 
 # Hanukkah
@@ -35,3 +35,10 @@ If one could find long term lodging through winter in or near Jerusalem—they w
 > And Jesus walked in the temple, in Solomon's porch.
 
 ----
+
+> John 10:22-30
+> Now it was the Feast of Dedication in Jerusalem, and it was winter. And Jesus walked in the temple, in Solomon's porch. Then the Jews surrounded Him and said to Him, "How long do You keep us in doubt? If You are the Christ, tell us plainly."
+> 
+> Jesus answered them, "I told you, and you do not believe. The works that I do in My Father's name, they bear witness of Me. But you do not believe, because you are not of My sheep, as I said to you. My sheep hear My voice, and I know them, and they follow Me. And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father's hand.
+> 
+> I and My Father are one."
