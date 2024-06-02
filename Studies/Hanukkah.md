@@ -1,6 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:36:52-06:00
+modified: 2024-06-02T10:37:50-06:00
 ---
 
 # Hanukkah
@@ -49,7 +49,9 @@ Then it is said
 
 ## What were these stones?
 
-It is written in the history (not biblical history) that when the temple was recaptured in 164 BC there was a problem. The alter had been dedicated to God thus it would be a sin to throw it away. The alter had also been used to sacrifice an unclean animal (a pig to honor the greek king Antichous). It was no longer clean to offer to God. They couldn't use it. They couldn't throw it away.
+It is written in the history (not biblical history) that when the temple was recaptured in 164 BC there was a problem:
+
+The alter had been dedicated to God thus it would be a sin to throw it away. The alter had also been used to sacrifice an unclean animal (a pig to honor the greek king Antichous). It was no longer clean to offer to God. They couldn't use it. They couldn't throw it away.
 
 Tradition says the Hasmonians disassembled the defiled alter and stacked the stones in solomon's porch. Tradition also says the Hasmonians said, "when Missah comes, He will tell us what to do with these stones."
 
