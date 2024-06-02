@@ -1,7 +1,6 @@
 ---
 created: 2024-06-02T09:42:05-06:00
-modified: 2024-06-02T10:17:49-06:00
-type: Checklist
+modified: 2024-06-02T10:19:05-06:00
 ---
 
 # Hanukkah
@@ -28,9 +27,9 @@ The burning of the lamps for eight days is a commemoration of the eight days of 
 
 ----
 
-In Jesus' day, Hanukka was an unofficial fourth holiday of mandatory gathering. The Law did not mention this day at all. But I still think it is significant. So if one could find long term lodging through winter in or near Jerusalem—they would.
+In Jesus' day, Hanukka was an unofficial fourth holiday of mandatory gathering. The Law did not mention this day at all. But I still think it is significant. 
 
-This is why Jesus would be walking in solomon's porch in John 10:23
+If one could find long term lodging through winter in or near Jerusalem—they would. This is why Jesus would be walking in solomon's porch in John 10:23
 
 > John 10:23
 > And Jesus walked in the temple, in Solomon's porch.
