@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:28:40-06:00
+modified: 2024-06-09T10:29:34-06:00
 type: Checklist
 ---
 
@@ -23,5 +23,7 @@ Teshuvah (תשובה) is a Hebrew word that translates to "repentance"
 > Turn, turn from your evil ways! For why should you die, O house of Israel?'
 
 ```
-Change your mind change your actions.
+Change your mind.
+change your actions.
+Change your heart.
 ```
