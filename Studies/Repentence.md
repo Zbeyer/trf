@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:31:02-06:00
+modified: 2024-06-09T10:35:30-06:00
 type: Checklist
 ---
 
@@ -28,4 +28,11 @@ Change your actions.
 Change your heart.
 ```
 
-Teshuvah means turn. Metanoia means be transformed.
+Teshuvah means turn. 
+Metanoia means be transformed.
+
+> Ephesians 2:8-9
+> For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.
+
+πίστις pistis - faith
+Is pursuasion. The grace of God pursudes us to be transformed, to change our behavior. The faith causes repentence.
