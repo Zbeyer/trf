@@ -30,7 +30,7 @@ Meaning: Dedication or rededication
 
 
 
-Uses a special menora: instead of the seven candle lamp stand this one uses 9. The central most light is called the **Shamash** or the attendent. 
+Uses a special menora: instead of the seven candle lamp stand this one uses nine. The central most light is called the **Shamash** or the attendent. 
 
 שַׁמָּשׁ
 
