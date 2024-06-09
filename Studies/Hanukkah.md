@@ -5,19 +5,32 @@ modified: 2024-06-02T11:00:24-06:00
 
 # Hanukkah
 
+>   **Transliteration:** chanukkah
+
+[bible hub](https://biblehub.com/hebrew/2598.htm)
+
+dedication, consecration
+
+חֲנֻכָּה
+
+----
+
 חֲנֻכָּה‎ or חֲנוּכָּה‎
 
 > Numbers 7:10
 > Now the leaders offered the dedication offering for the altar when it was anointed; so the leaders offered their offering before the altar.
 
-Ḥănukkā
+----
+
+## Ḥănukkā
+
 Meaning: Dedication or rededication
 
 ![Image](./b6db6bb49f8cb2dac070a4067cddcd8d.jpg) 
 
 
 
-Uses a special menora: instead of the seven candle lamp stand this one uses 9. The central most light is called the Shamash or the attendent. 
+Uses a special menora: instead of the seven candle lamp stand this one uses 9. The central most light is called the **Shamash** or the attendent. 
 
 שַׁמָּשׁ
 
