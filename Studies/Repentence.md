@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:30:03-06:00
+modified: 2024-06-09T10:31:02-06:00
 type: Checklist
 ---
 
@@ -27,3 +27,5 @@ Change your mind.
 Change your actions.
 Change your heart.
 ```
+
+Teshuvah means turn. Metanoia means be transformed.
