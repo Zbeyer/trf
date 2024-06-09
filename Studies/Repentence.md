@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:29:34-06:00
+modified: 2024-06-09T10:30:03-06:00
 type: Checklist
 ---
 
@@ -24,6 +24,6 @@ Teshuvah (תשובה) is a Hebrew word that translates to "repentance"
 
 ```
 Change your mind.
-change your actions.
+Change your actions.
 Change your heart.
 ```
