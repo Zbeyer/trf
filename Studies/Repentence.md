@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:35:30-06:00
+modified: 2024-06-09T10:41:48-06:00
 type: Checklist
 ---
 
@@ -36,3 +36,8 @@ Metanoia means be transformed.
 
 πίστις pistis - faith
 Is pursuasion. The grace of God pursudes us to be transformed, to change our behavior. The faith causes repentence.
+
+- Psalm 77:8
+- Isaiah 30:18
+- Romans 2:4
+- 1 Timothy 2:4
