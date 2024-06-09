@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:41:48-06:00
+modified: 2024-06-09T10:46:46-06:00
 type: Checklist
 ---
 
@@ -38,6 +38,13 @@ Metanoia means be transformed.
 Is pursuasion. The grace of God pursudes us to be transformed, to change our behavior. The faith causes repentence.
 
 - Psalm 77:8
+> Has His mercy ceased forever? Has His promise failed forevermore?
+
 - Isaiah 30:18
+> Therefore the LORD will wait, that He may be gracious to you; And therefore He will be exalted, that He may have mercy on you. For the LORD is a God of justice; Blessed are all those who wait for Him.
+
 - Romans 2:4
+> Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?
+
 - 1 Timothy 2:4
+> who desires all men to be saved and to come to the knowledge of the truth.
