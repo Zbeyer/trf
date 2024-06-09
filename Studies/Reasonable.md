@@ -1,6 +1,6 @@
 >   Isaiah 1:18
 >
->   Come now, and let us reason together, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
+>   Come now, and **let us reason together**, saith the Lord: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
 
 **let us reason together,”** [biblebhub](https://biblehub.com/isaiah/1-18.htm#lexicon)
 וְנִוָּֽכְחָ֖ה (wə·niw·wā·ḵə·ḥāh)
