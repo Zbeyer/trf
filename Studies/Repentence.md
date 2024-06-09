@@ -1,6 +1,6 @@
 ---
 created: 2024-06-09T10:17:49-06:00
-modified: 2024-06-09T10:26:22-06:00
+modified: 2024-06-09T10:28:40-06:00
 type: Checklist
 ---
 
@@ -21,3 +21,7 @@ Teshuvah (תשובה) is a Hebrew word that translates to "repentance"
 > I have no pleasure in the death of the wicked, 
 > but that the wicked **turn** from his way and live. 
 > Turn, turn from your evil ways! For why should you die, O house of Israel?'
+
+```
+Change your mind change your actions.
+```
