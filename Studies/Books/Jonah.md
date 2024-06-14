@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-06-14T02:04:31-06:00
+modified: 2024-06-14T06:26:37-06:00
 ---
 
 # Jonah
@@ -43,6 +43,8 @@ The Pharisees forgot about Jonah.
 - There is a strong connection with Doves and water.
 - Sameria was destroyed by the Assirans around this time
 - Gentiles believed when the Hebrews would not
+- Jonah is asleep in the boat during a storm, Jesus is asleep in the boat during a storm
+- 
 
 ## Context
 
