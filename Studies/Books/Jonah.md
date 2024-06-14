@@ -1,6 +1,6 @@
 ---
 created: 2024-05-26T07:32:13-06:00
-modified: 2024-05-28T03:24:39-06:00
+modified: 2024-06-14T02:04:31-06:00
 ---
 
 # Jonah
@@ -37,6 +37,12 @@ Gath or winepress was probly in or near Galilee. Thus Jonah and Jesus were from 
 They answered and said to him, "Are you also from Galilee? Search and look, for no prophet has arisen out of Galilee."
 
 The Pharisees forgot about Jonah. 
+
+- Assyians in all likelihood invented siege, that is the use of starvation against a civilian population in warfare.
+- Mathew 12, Jesus points to Jonah as a sign
+- There is a strong connection with Doves and water.
+- Sameria was destroyed by the Assirans around this time
+- Gentiles believed when the Hebrews would not
 
 ## Context
 
