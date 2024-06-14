@@ -88,7 +88,7 @@ Jonah's words cuased these pagans to turn to the one true God.
 ## Jonah 2
 Jonah prays from the belly of the fish.
 
-` דָּאג ḏâg̱ `was probably a fish the word is not ` לִוְיָתָן liwyâṯân` the sea serpant called leviathan. 
+Was it a fish or a whale?` דָּאג ḏâg̱ `was probably a fish the word is not ` לִוְיָתָן liwyâṯân` the sea serpant called leviathan. 
 
 The people who favor the whale interpretation think Jonah survived for three days and three nights in the stomach of the beast, those who prefer the fish interpretation say Jonah died and was resurrected.
 
